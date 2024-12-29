@@ -100,5 +100,54 @@ For any queries or suggestions, please contact:
 
 We hope this platform serves as a valuable resource for students aspiring to study abroad, their parents, and the administrators managing the process!
 
-![image](https://github.com/user-attachments/assets/a5e7d798-263c-4f2c-a787-ecc651451287)
+**Admin Page**
+1. Interface
+![image](https://github.com/user-attachments/assets/97327356-89ad-43f5-83a3-088ed6cd9dec)
+
+2. Insert University with requirements
+![image](https://github.com/user-attachments/assets/f673ed81-6702-4eee-97b3-b2e44cdc530d)
+
+3. University Details with information update section
+![image](https://github.com/user-attachments/assets/18bd3e01-42e2-4994-899a-1f3bc77d26e1)
+
+4. Notifications 
+![image](https://github.com/user-attachments/assets/33c3538e-bcfd-42cc-98c7-f8bebbfab1ca)
+
+5. History of Accepted or Rejected application
+![image](https://github.com/user-attachments/assets/4352dd7a-9277-41a0-a87e-85e5fbb23ffe)
+
+6.Information of Student who already created account
+![image](https://github.com/user-attachments/assets/21cc8a8a-56ee-4783-a238-b519ea7df3ef)
+
+**Student Page**
+
+1. University list with search filter
+![image](https://github.com/user-attachments/assets/87040ae0-25d0-494f-8188-d0cac7ed0246)
+
+2. Easy way to select University using chart
+![image](https://github.com/user-attachments/assets/4ef6f4de-e16a-4f54-b1f9-2f98635b8349)
+
+3. Show Information and requirments of University
+![image](https://github.com/user-attachments/assets/46449509-a392-4912-a020-0dc600f11e6b)
+
+4. Faculty information for a particular program 
+![image](https://github.com/user-attachments/assets/ebc8f871-2e9a-424c-b673-9652369edbfe)
+
+5. Application Section
+![image](https://github.com/user-attachments/assets/6ff73685-7ef1-4298-8534-fa81ede907d0)
+
+6. Studet information
+![image](https://github.com/user-attachments/assets/4390c803-6ac3-474b-abdc-d0d496a573da)
+
+7. Application History with status
+![image](https://github.com/user-attachments/assets/a9fe839a-6e68-403d-be63-c94cc8f7eb35)
+
+**Others**
+
+1. Registration Page
+![image](https://github.com/user-attachments/assets/8c405cc4-4ffe-4d15-9a08-8af2f8c6c266)
+![image](https://github.com/user-attachments/assets/db5fe1f0-fdd8-49e1-b018-22a670ea5bbb)
+
+2. Forget Password section 
+![image](https://github.com/user-attachments/assets/3ba7d818-2618-4505-9cfd-0a37dbb6ddc8)
 
