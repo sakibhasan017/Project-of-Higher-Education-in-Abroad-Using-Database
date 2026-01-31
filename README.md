@@ -2,6 +2,15 @@
 
 Welcome to the **Higher Education Abroad** project! This platform is designed to help students explore, apply, and manage their higher education opportunities abroad while offering parents and administrators essential tools to monitor and manage activities seamlessly.
 
+## Live Demo
+
+You can view and test the live version of this project at the link below:
+
+🔗 **Live URL:**  
+https://highereducationinabroad.yzz.me/
+
+---
+
 ## Features
 
 ### Student Features
