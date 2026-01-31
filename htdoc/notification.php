@@ -158,7 +158,7 @@ $result = mysqli_query($con, $sql);
 <body>
 <header>
         <div>
-            <img src="http://localhost/phpt/Image/logo.jpg" alt="Logo" class="logo">
+            <img src="Image/logo.jpg" alt="Logo" class="logo">
         </div>
         <h1>Higher Education in Abroad</h1>
         <nav>

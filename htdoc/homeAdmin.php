@@ -105,7 +105,7 @@
 <body>
     <header>
         <div>
-            <img src="http://localhost/phpt/Image/logo.jpg" alt="Logo" class="logo">
+            <img src="Image/logo.jpg" alt="Logo" class="logo">
         </div>
         <h1>Higher Education in Abroad</h1>
         <nav>
@@ -127,7 +127,7 @@
             <tr>
                 <td>
                     <div class="about-container">
-                        <img src="http://localhost/phpt/Image/frontImg.jpg" alt="Front Image" class="frontImg">
+                        <img src="Image/frontImg.jpg" alt="Front Image" class="frontImg">
                         <div class="about">
                             <h2>About</h2>
                             <p>Our website provides a comprehensive platform for higher education opportunities abroad. Users can explore universities from various countries, apply for admission, check requirements, and find relevant announcements. Whether you're planning to study abroad for undergraduate or graduate programs, our platform offers the resources you need to make informed decisions and pursue your academic goals.</p>
